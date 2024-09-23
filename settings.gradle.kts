@@ -17,3 +17,4 @@ rootProject.name = "Dice Roller"
 include(":app")
 include(":gestiondetache")
 include(":interfacetolearn")
+include(":carteanniversaire")
