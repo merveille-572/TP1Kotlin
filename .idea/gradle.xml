@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/adresse" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/carte_visite" />
             <option value="$PROJECT_DIR$/carteanniversaire" />
